@@ -1,6 +1,4 @@
-package OOP_2_2;
-
-import java.util.Objects;
+package OOP_3_2;
 
 public  class People implements People_to_Animal{
     private String name;

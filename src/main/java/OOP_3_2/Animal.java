@@ -1,4 +1,4 @@
-package OOP_2_2;
+package OOP_3_2;
 
 public abstract class  Animal {
     private String name;

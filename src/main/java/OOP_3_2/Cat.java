@@ -1,7 +1,4 @@
-package OOP_2_2;
-import org.jetbrains.annotations.NotNull;
-
-import java.util.*;
+package OOP_3_2;
 
 public class Cat extends Animal implements AnimalDo{
 

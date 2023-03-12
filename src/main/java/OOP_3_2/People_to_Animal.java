@@ -1,4 +1,4 @@
-package OOP_2_2;
+package OOP_3_2;
 
 public interface People_to_Animal {
     default void call(Animal an){
